@@ -1,0 +1,137 @@
+{
+    "admiration": [
+        "respect", "honor", "admire", "hero", "noble", "impressive", "greatness", 
+        "inspirational", "worthy", "achievement", "remarkable", "outstanding", 
+        "exceptional", "brilliant", "magnificent", "incredible", "awesome"
+    ],
+    "adoration": [
+        "love", "adore", "cherish", "sweet", "affection", "beloved", "devotion", 
+        "darling", "worship", "heartwarming", "treasure", "precious", "dear", 
+        "angel", "perfect", "everything to me", "world to me"
+    ],
+    "aesthetic_appreciation": [
+        "beautiful", "stunning", "elegant", "artistic", "graceful", "lovely", 
+        "visually pleasing", "style", "design", "gorgeous", "breathtaking", 
+        "exquisite", "picturesque", "magnificent", "sublime", "artistry"
+    ],
+    "amusement": [
+        "funny", "laugh", "joke", "hilarious", "comedy", "giggle", "amusing", 
+        "chuckle", "silly", "witty", "entertaining", "comical", "humorous", 
+        "lol", "haha", "ridiculous", "crack up"
+    ],
+    "anger": [
+        "furious", "mad", "rage", "hate", "annoyed", "pissed", "irritated", 
+        "resent", "aggressive", "hostile", "livid", "infuriated", "outraged", 
+        "frustrated", "enraged", "irate", "fuming"
+    ],
+    "anxiety": [
+        "worry", "nervous", "uneasy", "anxious", "fear", "tense", "dread", 
+        "stress", "panic", "apprehensive", "worried sick", "on edge", 
+        "restless", "concerned", "troubled", "jittery", "paranoid"
+    ],
+    "awe": [
+        "majestic", "breathtaking", "divine", "extraordinary", "vast", "wonder", 
+        "sublime", "astonishing", "speechless", "powerful", "overwhelming", 
+        "magnificent", "mind-blowing", "incredible", "phenomenal", "amazing"
+    ],
+    "awkwardness": [
+        "uncomfortable", "weird", "embarrassing", "cringe", "odd", "tense", 
+        "clumsy", "uneasy", "unsure", "silence", "awkward moment", "strange", 
+        "peculiar", "out of place", "social anxiety", "self-conscious"
+    ],
+    "boredom": [
+        "dull", "boring", "uninterested", "yawn", "tired", "repetitive", 
+        "monotony", "bland", "uninspiring", "tedious", "nothing to do", 
+        "unstimulating", "dreary", "lifeless", "mundane", "stale"
+    ],
+    "calmness": [
+        "peace", "relaxed", "tranquil", "soothing", "serene", "chill", "quiet", 
+        "calm", "harmony", "stillness", "peaceful", "composed", "zen", 
+        "mellow", "centered", "balanced", "at ease"
+    ],
+    "confusion": [
+        "puzzled", "lost", "unsure", "unclear", "baffled", "uncertain", 
+        "perplexed", "mixed up", "vague", "disoriented", "bewildered", 
+        "don't understand", "what's going on", "confused", "mystified"
+    ],
+    "craving": [
+        "want", "desire", "need", "hungry", "appetite", "urge", "longing", 
+        "tempting", "taste", "delicious", "craving", "yearning", "dying for", 
+        "starving", "desperate for", "can't resist", "must have"
+    ],
+    "disgust": [
+        "gross", "nasty", "revolting", "sick", "repulsive", "vile", "yuck", 
+        "foul", "dirty", "offensive", "disgusting", "nauseating", "repugnant", 
+        "horrible", "terrible", "eww", "ugh"
+    ],
+    "empathic_pain": [
+        "suffer", "hurt", "pain", "sad", "sorrow", "heartache", "empathy", 
+        "grief", "tragic", "devastating", "heart breaks", "feel their pain", 
+        "sympathize", "aching", "compassion", "breaks my heart"
+    ],
+    "entrancement": [
+        "mesmerized", "captivated", "hypnotic", "absorbed", "entranced", 
+        "fascinating", "spellbound", "focus", "dreamy", "immersive", 
+        "transfixed", "enchanted", "bewitched", "lost in", "drawn to"
+    ],
+    "excitement": [
+        "thrilled", "excited", "pumped", "ecstatic", "yay", "wow", "amazing", 
+        "can't wait", "buzzing", "energetic", "enthusiastic", "elated", 
+        "exhilarated", "fired up", "stoked", "over the moon"
+    ],
+    "fear": [
+        "afraid", "scared", "terrified", "frightened", "panic", "alarm", 
+        "danger", "horror", "shiver", "trembling", "terror", "petrified", 
+        "fearful", "dread", "spine-chilling", "nightmare"
+    ],
+    "horror": [
+        "gruesome", "terrifying", "nightmare", "bloody", "evil", "haunting", 
+        "creepy", "scream", "fear", "grotesque", "horrifying", "macabre", 
+        "spine-tingling", "bone-chilling", "sinister", "monstrous"
+    ],
+    "interest": [
+        "curious", "intriguing", "fascinated", "keen", "learn", "explore", 
+        "research", "engage", "attention", "discovery", "wonder", "investigate", 
+        "captivated", "absorbed", "drawn to", "compelling"
+    ],
+    "joy": [
+        "happy", "joy", "cheerful", "smile", "love", "wonderful", "bliss", 
+        "glee", "sunshine", "delighted", "jubilant", "overjoyed", "euphoric", 
+        "ecstatic", "radiant", "gleeful", "elated"
+    ],
+    "nostalgia": [
+        "remember", "childhood", "past", "memory", "retro", "old days", 
+        "sentimental", "flashback", "longing", "familiar", "reminisce", 
+        "bygone", "yesteryear", "wistful", "nostalgic", "good old times"
+    ],
+    "relief": [
+        "finally", "at last", "phew", "safe", "over", "resolved", "ease", 
+        "breathe", "calm", "off my chest", "thank god", "weight lifted", 
+        "burden removed", "stress gone", "relaxed", "cleared up"
+    ],
+    "romance": [
+        "romantic", "love", "kiss", "couple", "sweetheart", "passion", "hearts", 
+        "affection", "candlelight", "intimate", "valentine", "soulmate", 
+        "beloved", "tender", "loving", "chemistry", "attraction"
+    ],
+    "sadness": [
+        "sad", "cry", "tearful", "lonely", "heartbreak", "depression", "sorrow", 
+        "despair", "blue", "grief", "melancholy", "weep", "tears", "mourning", 
+        "devastated", "broken-hearted", "miserable"
+    ],
+    "satisfaction": [
+        "satisfied", "content", "pleased", "fulfilled", "reward", "done", 
+        "complete", "achieved", "proud", "enough", "accomplished", "gratified", 
+        "successful", "mission accomplished", "job well done", "perfect"
+    ],
+    "sexual_desire": [
+        "sexy", "hot", "turn on", "lust", "erotic", "seductive", "intimate", 
+        "passionate", "craving", "aroused", "horny", "desire", "attraction", 
+        "sensual", "tempting", "irresistible", "steamy"
+    ],
+    "surprise": [
+        "surprised", "wow", "shock", "unexpected", "unbelievable", "sudden", 
+        "amazed", "stunned", "gasp", "what?!", "astonished", "startled", 
+        "caught off guard", "blown away", "didn't see that coming", "incredible"
+    ]
+}

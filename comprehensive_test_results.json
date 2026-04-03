@@ -1,0 +1,164 @@
+{
+  "admiration": {
+    "accuracy": 90.98,
+    "samples_tested": 5000,
+    "correct_predictions": 4549,
+    "status": "EXCELLENT"
+  },
+  "adoration": {
+    "accuracy": 96.39999999999999,
+    "samples_tested": 5000,
+    "correct_predictions": 4820,
+    "status": "EXCELLENT"
+  },
+  "aesthetic_appreciation": {
+    "accuracy": 99.62,
+    "samples_tested": 5000,
+    "correct_predictions": 4981,
+    "status": "EXCELLENT"
+  },
+  "amusement": {
+    "accuracy": 95.8,
+    "samples_tested": 5000,
+    "correct_predictions": 4790,
+    "status": "EXCELLENT"
+  },
+  "anger": {
+    "accuracy": 79.52,
+    "samples_tested": 5000,
+    "correct_predictions": 3976,
+    "status": "GOOD"
+  },
+  "anxiety": {
+    "accuracy": 99.26,
+    "samples_tested": 5000,
+    "correct_predictions": 4963,
+    "status": "EXCELLENT"
+  },
+  "awe": {
+    "accuracy": 99.96000000000001,
+    "samples_tested": 5000,
+    "correct_predictions": 4998,
+    "status": "EXCELLENT"
+  },
+  "awkwardness": {
+    "accuracy": 98.86,
+    "samples_tested": 5000,
+    "correct_predictions": 4943,
+    "status": "EXCELLENT"
+  },
+  "boredom": {
+    "accuracy": 95.19999999999999,
+    "samples_tested": 5000,
+    "correct_predictions": 4760,
+    "status": "EXCELLENT"
+  },
+  "calmness": {
+    "accuracy": 94.8,
+    "samples_tested": 5000,
+    "correct_predictions": 4740,
+    "status": "EXCELLENT"
+  },
+  "confusion": {
+    "accuracy": 95.16,
+    "samples_tested": 5000,
+    "correct_predictions": 4758,
+    "status": "EXCELLENT"
+  },
+  "craving": {
+    "accuracy": 97.96000000000001,
+    "samples_tested": 5000,
+    "correct_predictions": 4898,
+    "status": "EXCELLENT"
+  },
+  "disgust": {
+    "accuracy": 90.46,
+    "samples_tested": 5000,
+    "correct_predictions": 4523,
+    "status": "EXCELLENT"
+  },
+  "empathic_pain": {
+    "accuracy": 96.12,
+    "samples_tested": 5000,
+    "correct_predictions": 4806,
+    "status": "EXCELLENT"
+  },
+  "entrancement": {
+    "accuracy": 95.34,
+    "samples_tested": 5000,
+    "correct_predictions": 4767,
+    "status": "EXCELLENT"
+  },
+  "excitement": {
+    "accuracy": 96.72,
+    "samples_tested": 5000,
+    "correct_predictions": 4836,
+    "status": "EXCELLENT"
+  },
+  "fear": {
+    "accuracy": 86.6,
+    "samples_tested": 5000,
+    "correct_predictions": 4330,
+    "status": "GOOD"
+  },
+  "horror": {
+    "accuracy": 99.02,
+    "samples_tested": 5000,
+    "correct_predictions": 4951,
+    "status": "EXCELLENT"
+  },
+  "interest": {
+    "accuracy": 91.97999999999999,
+    "samples_tested": 5000,
+    "correct_predictions": 4599,
+    "status": "EXCELLENT"
+  },
+  "joy": {
+    "accuracy": 58.440000000000005,
+    "samples_tested": 5000,
+    "correct_predictions": 2922,
+    "status": "NEEDS_IMPROVEMENT"
+  },
+  "nostalgia": {
+    "accuracy": 99.74,
+    "samples_tested": 5000,
+    "correct_predictions": 4987,
+    "status": "EXCELLENT"
+  },
+  "relief": {
+    "accuracy": 99.44,
+    "samples_tested": 5000,
+    "correct_predictions": 4972,
+    "status": "EXCELLENT"
+  },
+  "romance": {
+    "accuracy": 85.2,
+    "samples_tested": 5000,
+    "correct_predictions": 4260,
+    "status": "GOOD"
+  },
+  "sadness": {
+    "accuracy": 76.12,
+    "samples_tested": 5000,
+    "correct_predictions": 3806,
+    "status": "GOOD"
+  },
+  "satisfaction": {
+    "accuracy": 90.42,
+    "samples_tested": 5000,
+    "correct_predictions": 4521,
+    "status": "EXCELLENT"
+  },
+  "sexual_desire": {
+    "accuracy": 96.46000000000001,
+    "samples_tested": 5000,
+    "correct_predictions": 4823,
+    "status": "EXCELLENT"
+  },
+  "surprise": {
+    "accuracy": 81.78,
+    "samples_tested": 5000,
+    "correct_predictions": 4089,
+    "status": "GOOD"
+  }
+}
